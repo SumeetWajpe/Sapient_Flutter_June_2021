@@ -41,4 +41,11 @@ Start Time : Jun 21, 2021 08:12 AM
 
 Meeting Recording:
 https://zoom.us/rec/share/DUYhzj4EYVy8zzfOwdmt9UhFCBWRSKStK-hVcWwZls0hmmObSvJ8P8iABN9Xviai.RdCi2YU-L-kdtidx
+=================================================
+Topic: Flutter Training
+Start Time : Jun 22, 2021 08:09 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/QNRX0RYlYRIidlnWCW9NqBfKOOW6SjB0qsXD3K4mcQugxxovi3hEs0YSZoCYphOX.2cCIsDLyIVNgulKq
+
 
